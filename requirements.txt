@@ -1,0 +1,4 @@
+matplotlib==3.5.2
+numpy==1.22.3
+scipy==1.8.1
+tensorflow==2.9.0 # gpu version
